@@ -1,0 +1,1 @@
+This plugin is just test task for getting an offer.
